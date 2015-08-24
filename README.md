@@ -11,17 +11,17 @@ Multi client chat application done as assignment for networking course
 ### HOW TO CONNECT THE CLIENT:
 (Assumes you have started the server)
 1. Existing User:
-	1. Run the Home.java file
-	2. Click on login
-	3. Give the user, handle and password
-	4. Click on connect. By default, it assumes the server to be on localhost
-	5. If server is not on localhost, specify the server location and port
+	* Run the Home.java file
+	* Click on login
+	* Give the user, handle and password
+	* Click on connect. By default, it assumes the server to be on localhost
+	* If server is not on localhost, specify the server location and port
 2. New User:
-	1. Run the Home.java file
-	2. Click on register
-	3. Give the name, handle and password
-	4. Click on connect. By default, it assumes the server to be on localhost
-	5. If server is not on localhost, specify the server location and port
+	* Run the Home.java file
+	* Click on register
+	* Give the name, handle and password
+	* Click on connect. By default, it assumes the server to be on localhost
+	* If server is not on localhost, specify the server location and port
 
 ###Running the chat application on different machines
 
